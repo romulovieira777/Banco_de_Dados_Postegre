@@ -7,6 +7,7 @@
 - Select (Selecionando Dados).
 - Funções de Agregações.
 - Count (Contagem dos Dados).
+- Sum (Soma dos Dados).
 - Max (Máximo de um Valor).
 - Min (Mínimo de um Valor).
 - Avg (Média de Valores).
