@@ -13,3 +13,16 @@
 - Avg (Média de Valores).
 - Group By (Agrupando Dados).
 - Order By (Ordenando Dados).
+- Constraints (Restrições).
+- Alter Table (Alterar Tabelas).
+- Insert Into (Inserindo Dados em Tabelas).
+- Order By (Ordenação).
+- Where (Fitrar Resultados da Consulta).
+- Alias (Nomes Alternativos para Colunas e Tabelas).
+- Update (Atualizar Registro).
+- Group By (Agrupamento de Registros).
+- Views (Criando Tabelas Virtuais).
+- Joins (Junção de Dados entre Duas Tabelas ou Mais).
+- Fuction (Criando Funções, ou seja, Rotinas Armazenadas).
+- Procedures (Procedimentos Armazenados).
+- Triggers (É um Gatilho).
