@@ -26,3 +26,6 @@
 - Fuction (Criando Funções, ou seja, Rotinas Armazenadas).
 - Procedures (Procedimentos Armazenados).
 - Triggers (É um Gatilho).
+
+Link para o curso: 
+[Udemy](https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/)
